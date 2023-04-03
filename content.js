@@ -94,7 +94,8 @@
 
 
         // Add the chat button to the Google nav bar
-        const navBar = document.querySelector('.xhjkHe ');
+        const navBar = document.querySelector('#searchform');
+
         navBar.appendChild(button);
 
         // Check if Google search is in dark mode
