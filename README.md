@@ -6,7 +6,7 @@ This extension just opens Bing AI (the kind available in the Edge sidebar) in an
   - A Microsoft account
 
 ## Installation
-  - [Download this repository](https://github.com/akshay7394/bing-everywhere/archive/refs/heads/main.zip) (or clone it)
+  - [Download this repository](https://github.com/akshay7394/bing-everywhere/releases/download/v0/bing-everywhere.zip) (or clone it)
   - Extract it somewhere (temporarily, you can delete this folder afterwards)
   - Copy this:
       ```
