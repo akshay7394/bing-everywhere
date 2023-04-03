@@ -16,3 +16,6 @@ This extension just opens Bing AI (the kind available in the Edge sidebar) in an
   - Turn on "Developer Mode" (the toggle's at the top-right corner of this page)
   - Click on "Load unpacked extension" 
   - Navigate to the directory where you extracted the .zip file to
+
+
+  It's also got support for keyboard shortcuts. The default is Alt-E (option + E on macOS)
