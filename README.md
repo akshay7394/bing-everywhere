@@ -1,3 +1,5 @@
+> This repo's been archived, there are better (and more holistic) extensions generally available now that offer similar funcitonality
+
 # Bing AI in ~~Edge~~ any browser
 This extension just opens Bing AI (the kind available in the Edge sidebar) in an extension popup.
 
